@@ -4,7 +4,7 @@
 编码格式为UTF-8
 
 # 类介绍：
-<strong>
+
 ChatClient 客户端类<br/>
 ChatServer 服务器端类<br/>
 ClientReceiveImpl 客户端启动的接收线程<br/>
@@ -12,7 +12,7 @@ ClientReceiveImpl 客户端启动的接收线程<br/>
 ServerFrame 服务器界面（可运行文件）<br/>
 <a href="https://imgchr.com/i/DB2uA1"><img src="https://s3.ax1x.com/2020/11/26/DB2uA1.png" alt="DB2uA1.png" border="0" /></a><br/>
 ClientFrame 客户端界面（可运行文件）<br/>
-</strong>
+
 # 使用教程
 将完整项目导入编译工具即可
 
