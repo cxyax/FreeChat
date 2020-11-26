@@ -1,5 +1,3 @@
-<a href="https://imgchr.com/i/DB2k1U"><img src="https://s3.ax1x.com/2020/11/26/DB2k1U.png" alt="DB2k1U.png" border="0" /></a> <br/>
-
 # FreeChat
 一个简易的无数据库JAVA语言聊天软件，有服务器端和客户端
 
