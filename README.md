@@ -4,7 +4,6 @@
 编码格式为UTF-8
 
 # 类介绍：
-
 ChatClient 客户端类<br/>
 ChatServer 服务器端类<br/>
 ClientReceiveImpl 客户端启动的接收线程<br/>
