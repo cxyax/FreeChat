@@ -22,7 +22,7 @@ ClientFrame 客户端界面（可运行文件）<br/>
 各位大佬二开后可以告诉我一下二开后的新版本，互相学习~~
 
 # 联系作者
-单纯联系或者提交BUG即可
-程序员阿鑫 <a href = "www.cxyax.com">www.cxyax.com</a>
-交流群：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=cF3pZxjGuDghSsWacO8Xmhs-LSdb60jl&jump_from=webapi">521016450</a>
-邮箱：<a target="_blank" href="mailto:freeroot@163.com">freeroot@163.com</a>
+单纯联系或者提交BUG即可<br/>
+程序员阿鑫 <a href = "www.cxyax.com">www.cxyax.com</a><br/>
+交流群：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=cF3pZxjGuDghSsWacO8Xmhs-LSdb60jl&jump_from=webapi">521016450</a><br/>
+邮箱：<a target="_blank" href="mailto:freeroot@163.com">freeroot@163.com</a><br/>
