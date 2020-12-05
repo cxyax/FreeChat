@@ -4,7 +4,10 @@
 编码格式为UTF-8
 
 # 源码文件丢失问题
-源码文件丢失，导致无法引入编译器,可以进入程序员阿鑫博客进行下载
+源码文件丢失，导致无法引入编译器<br/>
+补发源码压缩包：
+<a href="https://github.com/cxyax/FreeChat/releases/tag/zipFreeChat">https://github.com/cxyax/FreeChat/releases/tag/zipFreeChat</a><br/>
+也可以进入程序员阿鑫博客进行下载<br/>
 相关文章链接：
 <a href="http://www.cxyax.com/?post=254">http://www.cxyax.com/?post=254</a>
 
