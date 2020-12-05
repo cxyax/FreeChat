@@ -6,7 +6,7 @@
 # 源码文件丢失问题
 源码文件丢失，导致无法引入编译器,可以进入程序员阿鑫博客进行下载
 相关文章链接：
-http://www.cxyax.com/?post=254
+<a href="http://www.cxyax.com/?post=254">http://www.cxyax.com/?post=254</a>
 
 # 类介绍：
 ChatClient 客户端类<br/>
